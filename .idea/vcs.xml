@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PBMPertemuan5Praktik" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dreirelative" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linear" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pertemuan4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/relative" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/relative/drei" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tugasZwei" vcs="Git" />
   </component>
 </project>

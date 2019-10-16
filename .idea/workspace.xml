@@ -2,8 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65bb1e1f-1b59-494c-91af-d9804d75cd8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tugasZwei" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tugasZwei.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable-v24/doomicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/invokericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/slarkicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/tbicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable-v24/axeicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear" beforeDir="false" afterPath="$PROJECT_DIR$/linear" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linear/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/androidTest/java/com/example/drei/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/androidTest/java/com/example/drei/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/java/com/example/drei/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/java/com/example/drei/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/app/src/test/java/com/example/drei/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/linear/app/src/test/java/com/example/drei/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/linear/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/linear/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/linear/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/linear/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/linear/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/androidTest/java/com/example/vier/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/androidTest/java/com/example/vier/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/java/com/example/vier/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/java/com/example/vier/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/app/src/test/java/com/example/vier/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/app/src/test/java/com/example/vier/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pertemuan4/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pertemuan4/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative" beforeDir="false" afterPath="$PROJECT_DIR$/relative" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/relative/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/androidTest/java/com/example/relative/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/androidTest/java/com/example/relative/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/java/com/example/relative/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/java/com/example/relative/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/app/src/test/java/com/example/relative/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/relative/app/src/test/java/com/example/relative/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/relative/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/relative/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/relative/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/relative/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relative/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/relative/settings.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,35 +102,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/runConfigurations.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/gradle.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/codeStyleConfig.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/Project.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1147" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,38 +117,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="RelativeLayout-Alva_Gani" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="RelativeLayout-Alva_Gani" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="RelativeLayout-Alva_Gani" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="RelativeLayout-Alva_Gani" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +164,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980973" />
@@ -152,16 +189,14 @@
     <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/gradle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/codeStyleConfig.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/Project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1147" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
