@@ -7,6 +7,57 @@
       <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/slarkicon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/linear/app/src/main/res/drawable/tbicon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pertemuan4/app/src/main/res/drawable-v24/axeicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/RecyclerViewP5.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/RecyclerViewP5.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/androidTest/java/com/krisna/recyclerviewp5/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/androidTest/java/com/krisna/recyclerviewp5/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/Phone.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/Phone.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/PhoneAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/PhoneAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/PhoneDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/java/com/krisna/recyclerviewp5/PhoneDetail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/item_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/item_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/phone_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/layout/phone_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/app/src/test/java/com/krisna/recyclerviewp5/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/app/src/test/java/com/krisna/recyclerviewp5/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntenRecyclerView5/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/IntenRecyclerView5/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPBM7/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/PPBM7/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPBM7/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PPBM7/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPBM7/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PPBM7/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPBM7/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PPBM7/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linear" beforeDir="false" afterPath="$PROJECT_DIR$/linear" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linear/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linear/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/linear/.idea/codeStyles/Project.xml" afterDir="false" />
@@ -102,7 +153,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,6 +186,9 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -183,20 +237,81 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/runConfigurations.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/codeStyleConfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/Project.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/gradle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/runConfigurations.xml" />
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/codeStyleConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/codeStyles/Project.xml" />
+    <entry file="file://$PROJECT_DIR$/RelativeLayout-Alva_Gani/.idea/gradle.xml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
