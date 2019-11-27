@@ -7,7 +7,7 @@ import android.view.MotionEvent
 import androidx.core.view.GestureDetectorCompat
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity(), GestureDetector.OnGestureListener,
+class cMainActivity : AppCompatActivity(), GestureDetector.OnGestureListener,
 GestureDetector.OnDoubleTapListener{
     var gDetector: GestureDetectorCompat? = null
     override fun onCreate(savedInstanceState: Bundle?) {
