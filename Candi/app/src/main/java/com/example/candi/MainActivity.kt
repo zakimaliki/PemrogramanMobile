@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 class MainActivity : AppCompatActivity() {
     private lateinit var RvCandi: RecyclerView
     private var list: ArrayList<Candi> = arrayListOf()
-    private var title: String = "Candi"
+    private var title: String = "Wisata Jogja"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
